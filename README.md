@@ -4,6 +4,12 @@
     <img alt="Dashboard stats of @deno4908" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=154745352&image_size=auto&color_scheme=light" width="771" height="auto">
   </picture>
 </a>
+<a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=154745352&period=all_times" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=154745352&period=all_times&image_size=auto&color_scheme=dark" width="721" height="auto">
+    <img alt="Contribution Time Distribution of @deno4908" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=154745352&period=all_times&image_size=auto&color_scheme=light" width="721" height="auto">
+  </picture>
+</a>
 <h1>Hi 👋, I'm DENO</h1>
 <p>A passionate tool developer from Vietnam</p>
 <h2>🚀 Languages and Tools I Use</h2>
